@@ -1,0 +1,11 @@
+# Compiled class file
+*.class
+
+# Eclipse configuration files
+*.project
+*.classpath
+.settings/
+
+#Intellij IDEA configuration files
+*.iml
+.idea/
